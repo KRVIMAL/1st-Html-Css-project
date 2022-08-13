@@ -13,4 +13,4 @@ It took me 4 hours to complete.
 [![main page clickable image](./screenshots/main%20page.png "main page")](www.google.com)
 
 
-  ##### [vercel deployed link](www.google.com "click here to view page")
+  ##### [Click here to view live project](www.google.com "click here to view page")
