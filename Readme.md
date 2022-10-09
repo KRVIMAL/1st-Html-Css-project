@@ -53,6 +53,7 @@
 **Technologies used** 
 1. ![Html-5][html-shield]
 2. ![css3][css-shield]
+
 **Tools used**
 
 1. ![google-chrome][chrome-shield]
@@ -66,9 +67,11 @@
 ## ⚙️ Deployment
 
 1. live one **Netlify**
+
 [![netlify][netlify-shield]][project-url]
 
 2. **source code**
+
 [![github][github-shield]][source-code]
 
 <!-- lessons learned -->
